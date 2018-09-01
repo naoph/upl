@@ -4,6 +4,6 @@
 Usage:
 
     # Upload a file
-    upl path/to/file.png
+    upl.py path/to/file.png
     # Upload with custom extension
-    upl path/to/file.jpeg jpg
+    upl.py path/to/file.jpeg jpg
