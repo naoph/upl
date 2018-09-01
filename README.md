@@ -2,6 +2,7 @@
 # A tiny script for uploading files to webservers over SSH
 
 Usage:
+
     # Upload a file
     upl path/to/file.png
     # Upload with custom extension
